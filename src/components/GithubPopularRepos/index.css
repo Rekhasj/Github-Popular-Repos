@@ -1,0 +1,16 @@
+.github-popular-repos-container {
+  height: 100%;
+  width: 100%;
+  max-width: 1000px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.repository-container {
+  display: flex;
+  list-style-type: none;
+  width: 80%;
+  flex-wrap: wrap;
+}

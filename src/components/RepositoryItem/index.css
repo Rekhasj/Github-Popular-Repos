@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.repository-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+}
+
+.avatar-image {
+  height: 100px;
+  width: 100px;
+}
+.name {
+  font-size: 20px;
+}
+.list-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.list-image {
+  height: 20px;
+  width: 20px;
+}

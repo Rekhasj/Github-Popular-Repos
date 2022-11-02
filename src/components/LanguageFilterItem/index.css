@@ -1,0 +1,8 @@
+/* Write your CSS here */
+
+.item-button {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
